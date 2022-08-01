@@ -1,0 +1,4 @@
+el proyecto es creado con el framework Angular, solo se debe correr el comando 
+npm install 
+y despues 
+npm start
